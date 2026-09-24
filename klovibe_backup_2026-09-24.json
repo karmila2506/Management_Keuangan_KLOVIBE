@@ -1,0 +1,146 @@
+{
+  "consumables": [
+    {
+      "id": "c-1",
+      "name": "Mawar Semi-Holland Merah",
+      "category": "bunga",
+      "unit": "tangkai",
+      "costPerUnit": 8000,
+      "stock": 150,
+      "minStockAlert": 25
+    },
+    {
+      "id": "c-2",
+      "name": "Mawar Avalance Putih Premium",
+      "category": "bunga",
+      "unit": "tangkai",
+      "costPerUnit": 8500,
+      "stock": 100,
+      "minStockAlert": 20
+    },
+    {
+      "id": "c-3",
+      "name": "Baby's Breath Impor Putih",
+      "category": "bunga",
+      "unit": "cabang",
+      "costPerUnit": 3500,
+      "stock": 80,
+      "minStockAlert": 15
+    },
+    {
+      "id": "c-4",
+      "name": "Daun Eucalyptus Cinerea",
+      "category": "bunga",
+      "unit": "tangkai",
+      "costPerUnit": 2500,
+      "stock": 60,
+      "minStockAlert": 10
+    },
+    {
+      "id": "c-5",
+      "name": "Kertas Wrapping Cellophane Gold Edge",
+      "category": "wrapping",
+      "unit": "lembar",
+      "costPerUnit": 4500,
+      "stock": 120,
+      "minStockAlert": 30
+    },
+    {
+      "id": "c-6",
+      "name": "Kertas Korean Matte Nude Pink",
+      "category": "wrapping",
+      "unit": "lembar",
+      "costPerUnit": 5000,
+      "stock": 90,
+      "minStockAlert": 20
+    },
+    {
+      "id": "c-7",
+      "name": "Pita Satin Premium Terracotta 2.5cm",
+      "category": "pita",
+      "unit": "meter",
+      "costPerUnit": 1200,
+      "stock": 150,
+      "minStockAlert": 30
+    },
+    {
+      "id": "c-8",
+      "name": "Stiker Segel KLOVIBE Gold Foil",
+      "category": "aksesoris",
+      "unit": "pcs",
+      "costPerUnit": 600,
+      "stock": 300,
+      "minStockAlert": 50
+    },
+    {
+      "id": "c-9",
+      "name": "Kartu Ucapan / Greeting Card Floral",
+      "category": "aksesoris",
+      "unit": "pcs",
+      "costPerUnit": 1500,
+      "stock": 120,
+      "minStockAlert": 20
+    },
+    {
+      "id": "c-10",
+      "name": "Refill Isi Lem Tembak (Glue Sticks)",
+      "category": "perekat",
+      "unit": "batang",
+      "costPerUnit": 1000,
+      "stock": 100,
+      "minStockAlert": 15
+    }
+  ],
+  "tools": [
+    {
+      "id": "t-1",
+      "name": "Gunting Bunga Khusus Florist (Oasis Carbon Steel)",
+      "purchasePrice": 120000,
+      "purchaseDate": "2026-01-10",
+      "estimatedUsageCount": 800,
+      "totalUsedCount": 0,
+      "notes": "Penyusutan per buket: Rp 150"
+    },
+    {
+      "id": "t-2",
+      "name": "Tembakan Lem Tembak Panas (Hot Glue Gun 40W)",
+      "purchasePrice": 75000,
+      "purchaseDate": "2026-01-12",
+      "estimatedUsageCount": 500,
+      "totalUsedCount": 0,
+      "notes": "Penyusutan per buket: Rp 150"
+    },
+    {
+      "id": "t-3",
+      "name": "Tang Pemotong Kawat & Tangkai Tebal",
+      "purchasePrice": 65000,
+      "purchaseDate": "2026-01-15",
+      "estimatedUsageCount": 1000,
+      "totalUsedCount": 0,
+      "notes": "Penyusutan per buket: Rp 65"
+    },
+    {
+      "id": "t-4",
+      "name": "Dispenser Pita & Pemotong Tape Otomatis",
+      "purchasePrice": 50000,
+      "purchaseDate": "2026-01-20",
+      "estimatedUsageCount": 800,
+      "totalUsedCount": 0,
+      "notes": "Penyusutan per buket: Rp 62.5"
+    }
+  ],
+  "products": [],
+  "transactions": [],
+  "expenses": [],
+  "settings": {
+    "storeName": "KLOVIBE",
+    "slogan": "Crafted Moments, Enduring Love",
+    "ownerName": "Florist Studio",
+    "currency": "IDR",
+    "initialCapital": 8250000,
+    "bgImageBase64": null,
+    "bgOpacity": 15,
+    "bgBlur": 2
+  },
+  "exportedAt": "2026-09-24T05:34:17.013Z"
+}
